@@ -18,8 +18,8 @@ int g_anKeys[KEY_NUMKEYS] =
 	SDLK_UP,
 	SDLK_LEFT,
 	SDLK_RIGHT,
-	SDLK_RCTRL,//Note LCTRL and RCTRL are both 'mapped onto' just RCTRL currently [dj2016-10]
-	SDLK_RALT//Note LALT and RALT are both 'mapped onto' just RALT currently [dj2016-10]
+	SDLK_k,//Note LCTRL and RCTRL are both 'mapped onto' just RCTRL currently [dj2016-10]
+	SDLK_j//Note LALT and RALT are both 'mapped onto' just RALT currently [dj2016-10]
 };
 
 // Note here keycode is the SDL one, not the 'DJ' one [dj2016-10]
